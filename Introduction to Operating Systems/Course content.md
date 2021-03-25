@@ -3,7 +3,7 @@
 | Section No. | Section Title                           | Current Progress |
 | ----------- | --------------------------------------- | ---------------- |
 | 1           | == Course Readiness Survey ==           | Done             |
-| 2           | P1L1: Course Overview                   | TODO             |
+| 2           | P1L1: Course Overview                   | in-progress      |
 | 3           | P1L2: Introduction to Operating Systems | TODO             |
 | 4           | P2L1: Processes and Process Management  | TODO             |
 | 5           | P2L2: Threads and Concurrency           | TODO             |
