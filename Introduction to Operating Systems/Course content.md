@@ -4,7 +4,7 @@
 | ----------- | --------------------------------------- | ---------------- |
 | 1           | == Course Readiness Survey ==           | Done             |
 | 2           | P1L1: Course Overview                   | Done             |
-| 3           | P1L2: Introduction to Operating Systems | TODO             |
+| 3           | P1L2: Introduction to Operating Systems | in-progress      |
 | 4           | P2L1: Processes and Process Management  | TODO             |
 | 5           | P2L2: Threads and Concurrency           | TODO             |
 | 6           | P2L3: Threads Case Study: PThreads      | TODO             |
