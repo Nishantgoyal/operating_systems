@@ -1,0 +1,15 @@
+# Linux Server Course - System Configuration and Operation - Course content
+
+| Section No. | Section Title                            | Current Progress |
+| ----------- | ---------------------------------------- | ---------------- |
+| 1           | Introduction                             | TODO             |
+| 2           | Explain Linux Kernel and Boot Concepts   | TODO             |
+| 3           | Configure and Verify Network Connections | TODO             |
+| 4           | Manage Storage in a Linux Environment    | TODO             |
+| 5           | Install, Update, and Configure Software  | TODO             |
+| 6           | Manage Users and Groups                  | TODO             |
+| 7           | Create, Modify, and Redirect Files       | TODO             |
+| 8           | Manage Local Services                    | TODO             |
+| 9           | Summarize and Explain Server Roles       | TODO             |
+| 10          | Automate and Schedule Jobs               | TODO             |
+| 11          | Explain and Use Linux Devices            | TODO             |
