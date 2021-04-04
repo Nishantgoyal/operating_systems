@@ -2,7 +2,7 @@
 
 | Section No. | Section Title                            | Current Progress |
 | ----------- | ---------------------------------------- | ---------------- |
-| 1           | Introduction                             | TODO             |
+| 1           | Introduction                             | in-progress      |
 | 2           | Explain Linux Kernel and Boot Concepts   | TODO             |
 | 3           | Configure and Verify Network Connections | TODO             |
 | 4           | Manage Storage in a Linux Environment    | TODO             |
