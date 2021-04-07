@@ -4,7 +4,7 @@
 | ----------- | ---------------------------------------- | -------------------------- |
 | 1           | Introduction                             | Done                       |
 | 2           | Explain Linux Kernel and Boot Concepts   | Done                       |
-| 3           | Configure and Verify Network Connections | 04. Network Files - Ubuntu |
+| 3           | Configure and Verify Network Connections | 05. Network Files - CentOS |
 | 4           | Manage Storage in a Linux Environment    | TODO                       |
 | 5           | Install, Update, and Configure Software  | TODO                       |
 | 6           | Manage Users and Groups                  | TODO                       |
