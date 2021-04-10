@@ -6,7 +6,7 @@
 | 2           | Explain Linux Kernel and Boot Concepts   | Done             |
 | 3           | Configure and Verify Network Connections | Done             |
 | 4           | Manage Storage in a Linux Environment    | Done             |
-| 5           | Install, Update, and Configure Software  | TODO             |
+| 5           | Install, Update, and Configure Software  | in-progress      |
 | 6           | Manage Users and Groups                  | TODO             |
 | 7           | Create, Modify, and Redirect Files       | TODO             |
 | 8           | Manage Local Services                    | TODO             |
