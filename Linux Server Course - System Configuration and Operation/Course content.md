@@ -7,7 +7,7 @@
 | 3           | Configure and Verify Network Connections | Done             |
 | 4           | Manage Storage in a Linux Environment    | Done             |
 | 5           | Install, Update, and Configure Software  | Done             |
-| 6           | Manage Users and Groups                  | TODO             |
+| 6           | Manage Users and Groups                  | in-progress      |
 | 7           | Create, Modify, and Redirect Files       | TODO             |
 | 8           | Manage Local Services                    | TODO             |
 | 9           | Summarize and Explain Server Roles       | TODO             |
