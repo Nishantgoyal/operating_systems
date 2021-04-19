@@ -6,7 +6,7 @@
 | 2           | Explain Linux Kernel and Boot Concepts   | Done                             |
 | 3           | Configure and Verify Network Connections | Done                             |
 | 4           | Manage Storage in a Linux Environment    | Done                             |
-| 5           | Install, Update, and Configure Software  | 04. Configuring APT Repositories |
+| 5           | Install, Update, and Configure Software  | 05. Configuring YUM Repositories |
 | 6           | Manage Users and Groups                  | TODO                             |
 | 7           | Create, Modify, and Redirect Files       | TODO                             |
 | 8           | Manage Local Services                    | TODO                             |
