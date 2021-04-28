@@ -8,7 +8,7 @@
 | 4           | Manage Storage in a Linux Environment    | Done             |
 | 5           | Install, Update, and Configure Software  | Done             |
 | 6           | Manage Users and Groups                  | Done             |
-| 7           | Create, Modify, and Redirect Files       | TODO             |
+| 7           | Create, Modify, and Redirect Files       | in-progress      |
 | 8           | Manage Local Services                    | TODO             |
 | 9           | Summarize and Explain Server Roles       | TODO             |
 | 10          | Automate and Schedule Jobs               | TODO             |
