@@ -11,5 +11,5 @@
 | 7           | Create, Modify, and Redirect Files       | Done             |
 | 8           | Manage Local Services                    | Done             |
 | 9           | Summarize and Explain Server Roles       | Done             |
-| 10          | Automate and Schedule Jobs               | TODO             |
+| 10          | Automate and Schedule Jobs               | in-progress      |
 | 11          | Explain and Use Linux Devices            | TODO             |
