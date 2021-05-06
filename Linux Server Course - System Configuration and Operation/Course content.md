@@ -12,4 +12,4 @@
 | 8           | Manage Local Services                    | Done             |
 | 9           | Summarize and Explain Server Roles       | Done             |
 | 10          | Automate and Schedule Jobs               | Done             |
-| 11          | Explain and Use Linux Devices            | TODO             |
+| 11          | Explain and Use Linux Devices            | in-progress      |
